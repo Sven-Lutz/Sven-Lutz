@@ -42,4 +42,4 @@ I bring a business perspective to technical work, supported by a B.Sc. in Busine
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/lutzsven/) · [Email](mailto:Lutz.sven@outlook.de)
+[Website & notes](https://sven-lutz.github.io/) · [LinkedIn](https://www.linkedin.com/in/lutzsven/) · [Email](mailto:Lutz.sven@outlook.de)
